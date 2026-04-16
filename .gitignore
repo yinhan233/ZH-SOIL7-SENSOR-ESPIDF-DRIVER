@@ -1,0 +1,19 @@
+# 编辑器 / IDE
+.vscode/
+.idea/
+.cproject
+.project
+.devcontainer/
+
+# ESP-IDF 生成的文件
+sdkconfig.old
+build/
+dist/
+*.o
+*.bin
+*.elf
+*.map
+*.json
+
+# 系统文件
+.DS_Store
