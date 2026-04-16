@@ -1,0 +1,2 @@
+source /home/yinhan/esp_workspace/NPK_TEST/build/bootloader/gdbinit/symbols
+source /home/yinhan/esp_workspace/NPK_TEST/build/bootloader/gdbinit/connect
